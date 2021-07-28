@@ -1,4 +1,4 @@
-## Projeto Go Barber Web com React faz parte do Bootcamp Gostack 11 da Rocketseat
+## Projeto Go Barber Web com React faz parte do Bootcamp Gostack 14 da Rocketseat
 
 ### Projeto
 
